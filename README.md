@@ -32,6 +32,3 @@ pytest -v
 pytest --alluredir=allure-results
 allure serve allure-results
 ```
-
-## Автор
-Игорь Федотов — [ссылка на резюме/GitHub-профиль]
