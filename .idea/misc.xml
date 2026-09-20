@@ -3,5 +3,5 @@
   <component name="Black">
     <option name="sdkName" value="Python 3.13 (excel)" />
   </component>
-  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.13 (excel)" project-jdk-type="Python SDK" />
+  <component name="ProjectRootManager" version="2" project-jdk-name="~/PycharmProjects/Api-tests-scooter-rental/.venv" project-jdk-type="Python SDK" />
 </project>
